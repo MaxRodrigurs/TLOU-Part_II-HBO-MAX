@@ -16,7 +16,7 @@ function About1() {
         <p className="phone:text-xs tablet:text-sm laptop:text-md mb-8 text-gray-400">Action | Adventure</p>
       </div>
 
-      <img className="w-full" src="./src/assets/img/logo-partI.png" alt="" />
+      <img className="w-full" src="/img/logo-partI.png" alt="" />
 
       <div className="flex gap-8 mt-8 mb-8 items-center justify-start pointer-events-auto">
         <WatchButton />
@@ -30,7 +30,7 @@ function About1() {
         </h2>
 
         <div className="flex justify-start items-center font-gilroy-bold gap-4">
-          <img src="./src/assets/img/imdb-logo.svg" alt="" />
+          <img src="/img/imdb-logo.svg" alt="" />
           <p className="text-2xl">9.8</p>
         </div>
       </div>

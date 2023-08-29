@@ -15,8 +15,8 @@ const App: React.FC = () => {
         <section className="font-gilroy-medium py-12">
           <h2 className="text-3xl font-gilroy-bold">The Last Of Us Collections</h2>
           <div className="cursor-pointer flex phone:space-x-1 laptop:space-x-4 mt-6">
-            <CollectionLink link="TLOU1" imageSrc="./src/assets/img/partI.jpg" />
-            <CollectionLink link="https://play.hbomax.com/page/urn:hbo:page:spotlight-the-last-of-us" imageSrc="./src/assets/img/collection.png" />
+            <CollectionLink link="TLOU1" imageSrc="/img/partI.jpg" />
+            <CollectionLink link="https://play.hbomax.com/page/urn:hbo:page:spotlight-the-last-of-us" imageSrc="/img/collection.png" />
           </div>
           <Other />
         </section>

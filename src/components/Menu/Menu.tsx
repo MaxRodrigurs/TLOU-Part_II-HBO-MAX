@@ -8,7 +8,7 @@ const Menu: React.FC = () => {
     <header className="phone:px-6 phone:py-2 laptop:py-8 tablet:flex laptop:mx-12 laptop:my-10 desktop:mx-28 justify-between laptop:backdrop-blur laptop:h-20 laptop:rounded-[26px] tablet:bg-black/50 items-center shadow-2xl">
       <div className="tablet:w-[10%] desktop:w-[6%]">
         <a href="https://www.hbomax.com/">
-          <img className="cursor-pointer phone:my-6 tablet:my-4 laptop:my-0 phone:w-24 phone:h-11 tablet:w-full tablet:h-10 hover:opacity-80 ease-in-out duration-300" src="/src/assets/img/hbo-logo.svg" alt="HBO Max Logo" />
+          <img className="cursor-pointer phone:my-6 tablet:my-4 laptop:my-0 phone:w-24 phone:h-11 tablet:w-full tablet:h-10 hover:opacity-80 ease-in-out duration-300" src="/img/hbo-logo.svg" alt="HBO Max Logo" />
         </a>
       </div>
 

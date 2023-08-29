@@ -12,8 +12,8 @@ function TLOU1() {
         <section className="font-gilroy-medium py-12">
           <h2 className="text-3xl font-gilroy-bold">The Last Of Us Collections</h2>
           <div className="cursor-pointer flex phone:space-x-1 laptop:space-x-4 mt-6">
-            <CollectionLink link="/" imageSrc="./src/assets/img/partII.png" />
-            <CollectionLink link="https://play.hbomax.com/page/urn:hbo:page:spotlight-the-last-of-us" imageSrc="./src/assets/img/collection.png" />
+            <CollectionLink link="/" imageSrc="/img/partII.png" />
+            <CollectionLink link="https://play.hbomax.com/page/urn:hbo:page:spotlight-the-last-of-us" imageSrc="/img/collection.png" />
           </div>
           <Other />
         </section>

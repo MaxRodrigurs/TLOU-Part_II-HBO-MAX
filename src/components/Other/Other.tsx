@@ -3,23 +3,23 @@ function Other() {
   const seriesData = [
     {
       href: 'https://play.hbomax.com/page/urn:hbo:page:GYyUIBgIkFxu1wwEAAABs:type:series',
-      imageSrc: './src/assets/img/series-bottom-1.jpg',
+      imageSrc: '/img/series-bottom-1.jpg',
     },
     {
       href: 'https://play.hbomax.com/page/urn:hbo:page:GYL51wA5ofaSURgEAAAAC:type:series',
-      imageSrc: './src/assets/img/series-bottom-2.jpg',
+      imageSrc: '/img/series-bottom-2.jpg',
     },
     {
       href: 'https://play.hbomax.com/page/urn:hbo:page:GYL51wA5ofaSURgEAAAAC:type:series',
-      imageSrc: './src/assets/img/series-bottom-3.jpg',
+      imageSrc: '/img/series-bottom-3.jpg',
     },
     {
       href: 'https://play.hbomax.com/page/urn:hbo:page:GYL51wA5ofaSURgEAAAAC:type:series',
-      imageSrc: './src/assets/img/series-bottom-4.jpg',
+      imageSrc: '/img/series-bottom-4.jpg',
     },
     {
       href: 'https://play.hbomax.com/page/urn:hbo:page:GYL51wA5ofaSURgEAAAAC:type:series',
-      imageSrc: './src/assets/img/series-bottom-5.jpg',
+      imageSrc: '/img/series-bottom-5.jpg',
     },
   ];
 

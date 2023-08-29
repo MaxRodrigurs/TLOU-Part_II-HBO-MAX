@@ -13,8 +13,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'tlou2': "url('./src/assets/img/tloupart2.png')",
-        'tlou': "url('./src/assets/img/tlou.png')",
+        'tlou2': "url('/img/tloupart2.png')",
+        'tlou': "url('/img/tlou.png')",
       },
       fontFamily: {
         'biotif': ['Biotif-Regular', 'sans-serif'],
