@@ -1,16 +1,16 @@
 {
   "routes": [
     {
-      "source": "/",
-      "destination": "./source/pages/App"
+      "src": "/",
+      "dest": "./src/pages/App"
     },
     {
-      "source": "/TLOU1",
-      "destination": "./source/pages/TLOU1"
+      "src": "/TLOU1",
+      "dest": "./src/pages/TLOU1"
     },
     {
-      "source": "/Error",
-      "destination": "./source/pages/Error"
+      "src": "/Error",
+      "dest": "./src/pages/Error"
     }
   ]
 }
