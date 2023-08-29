@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "./src/pages/App"
+    },
+    {
+      "src": "/TLOU1",
+      "dest": "./src/pages/TLOU1"
+    },
+    {
+      "src": "/Error",
+      "dest": "./src/pages/Error"
+    }
+  ]
+}
