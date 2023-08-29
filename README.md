@@ -22,8 +22,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- [Tailwind CSS](https://tailwindcss.com/)
+- React.js
+- Tailwind
+- Vite.js
 
 ## 🚧 Projeto:
 
